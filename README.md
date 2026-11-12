@@ -77,6 +77,3 @@ Planned additions for future versions include:
 - Point operations
 - Edge detection
 
-## License
-
-License information will be added before the first public release.
